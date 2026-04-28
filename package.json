@@ -1,5 +1,5 @@
 {
-  "name": "testing-ios-chromatic-v2",
+  "name": "repro-for-steven",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {

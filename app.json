@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "testing-ios-chromatic-v2",
-    "slug": "testing-ios-chromatic-v2",
+    "name": "repro-for-steven",
+    "slug": "repro-for-steven",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
