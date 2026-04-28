@@ -1,0 +1,2430 @@
+{
+  "stories": [
+    {
+      "storyId": "switch--off-horizontal",
+      "name": "Off Horizontal",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--off-vertical",
+      "name": "Off Vertical",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--on-horizontal",
+      "name": "On Horizontal",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--on-vertical",
+      "name": "On Vertical",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--disabled-off-horizontal",
+      "name": "Disabled Off Horizontal",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--disabled-off-vertical",
+      "name": "Disabled Off Vertical",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--disabled-on-horizontal",
+      "name": "Disabled On Horizontal",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--disabled-on-vertical",
+      "name": "Disabled On Vertical",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--small-off",
+      "name": "Small Off",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--small-off-vertical",
+      "name": "Small Off Vertical",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--small-on",
+      "name": "Small On",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--small-on-vertical",
+      "name": "Small On Vertical",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--large-off",
+      "name": "Large Off",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--large-off-vertical",
+      "name": "Large Off Vertical",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--large-on",
+      "name": "Large On",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--large-on-vertical",
+      "name": "Large On Vertical",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--no-label-off",
+      "name": "No Label Off",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--no-label-on",
+      "name": "No Label On",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--long-label-horizontal",
+      "name": "Long Label Horizontal",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--long-label-vertical",
+      "name": "Long Label Vertical",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--medium-on-horizontal",
+      "name": "Medium On Horizontal",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--medium-on-vertical",
+      "name": "Medium On Vertical",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--short-label",
+      "name": "Short Label",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--short-label-vertical",
+      "name": "Short Label Vertical",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--no-label-on-vertical",
+      "name": "No Label On Vertical",
+      "fileName": "./components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--unchecked-horizontal",
+      "name": "Unchecked Horizontal",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--unchecked-vertical",
+      "name": "Unchecked Vertical",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--checked-horizontal",
+      "name": "Checked Horizontal",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--checked-vertical",
+      "name": "Checked Vertical",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--disabled-unchecked-horizontal",
+      "name": "Disabled Unchecked Horizontal",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--disabled-unchecked-vertical",
+      "name": "Disabled Unchecked Vertical",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--disabled-checked-horizontal",
+      "name": "Disabled Checked Horizontal",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--disabled-checked-vertical",
+      "name": "Disabled Checked Vertical",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--small-unchecked",
+      "name": "Small Unchecked",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--small-unchecked-vertical",
+      "name": "Small Unchecked Vertical",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--small-checked",
+      "name": "Small Checked",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--small-checked-vertical",
+      "name": "Small Checked Vertical",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--large-unchecked",
+      "name": "Large Unchecked",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--large-unchecked-vertical",
+      "name": "Large Unchecked Vertical",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--large-checked",
+      "name": "Large Checked",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--large-checked-vertical",
+      "name": "Large Checked Vertical",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--no-label-unchecked",
+      "name": "No Label Unchecked",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--no-label-checked",
+      "name": "No Label Checked",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--long-label-horizontal",
+      "name": "Long Label Horizontal",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--long-label-vertical",
+      "name": "Long Label Vertical",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--medium-checked-horizontal",
+      "name": "Medium Checked Horizontal",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--medium-checked-vertical",
+      "name": "Medium Checked Vertical",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--short-label",
+      "name": "Short Label",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--short-label-vertical",
+      "name": "Short Label Vertical",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--no-label-checked-vertical",
+      "name": "No Label Checked Vertical",
+      "fileName": "./components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "button--primary",
+      "name": "Primary",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--secondary",
+      "name": "Secondary",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--large",
+      "name": "Large",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--small",
+      "name": "Small",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--primary-small",
+      "name": "Primary Small",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--primary-medium",
+      "name": "Primary Medium",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--primary-large",
+      "name": "Primary Large",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--secondary-small",
+      "name": "Secondary Small",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--secondary-medium",
+      "name": "Secondary Medium",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--secondary-large",
+      "name": "Secondary Large",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--custom-background-red",
+      "name": "Custom Background Red",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--custom-background-green",
+      "name": "Custom Background Green",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--custom-background-purple",
+      "name": "Custom Background Purple",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--custom-background-orange",
+      "name": "Custom Background Orange",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--long-label",
+      "name": "Long Label",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--very-long-label",
+      "name": "Very Long Label",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--short-label",
+      "name": "Short Label",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--single-character",
+      "name": "Single Character",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--with-emoji",
+      "name": "With Emoji",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--with-multiple-emoji",
+      "name": "With Multiple Emoji",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--numeric-label",
+      "name": "Numeric Label",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--mixed-case-label",
+      "name": "Mixed Case Label",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--all-caps-label",
+      "name": "All Caps Label",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--lowercase-label",
+      "name": "Lowercase Label",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--small-custom-background",
+      "name": "Small Custom Background",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--large-custom-background",
+      "name": "Large Custom Background",
+      "fileName": "./components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--default-circle",
+      "name": "Default Circle",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--default-circle-vertical",
+      "name": "Default Circle Vertical",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--small-circle",
+      "name": "Small Circle",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--small-circle-vertical",
+      "name": "Small Circle Vertical",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--medium-circle",
+      "name": "Medium Circle",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--medium-circle-vertical",
+      "name": "Medium Circle Vertical",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--large-circle",
+      "name": "Large Circle",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--large-circle-vertical",
+      "name": "Large Circle Vertical",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--x-large-circle",
+      "name": "X Large Circle",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--x-large-circle-vertical",
+      "name": "X Large Circle Vertical",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--square-small",
+      "name": "Square Small",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--square-small-vertical",
+      "name": "Square Small Vertical",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--square-medium",
+      "name": "Square Medium",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--square-medium-vertical",
+      "name": "Square Medium Vertical",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--rounded-small",
+      "name": "Rounded Small",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--rounded-small-vertical",
+      "name": "Rounded Small Vertical",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--rounded-medium",
+      "name": "Rounded Medium",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--rounded-medium-vertical",
+      "name": "Rounded Medium Vertical",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--custom-color",
+      "name": "Custom Color",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--custom-color-vertical",
+      "name": "Custom Color Vertical",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--green-background",
+      "name": "Green Background",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--purple-background",
+      "name": "Purple Background",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--single-letter",
+      "name": "Single Letter",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--three-letters",
+      "name": "Three Letters",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--orange-background",
+      "name": "Orange Background",
+      "fileName": "./components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    }
+  ],
+  "json": [
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--off-horizontal",
+      "name": "Off Horizontal",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--off-vertical",
+      "name": "Off Vertical",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--on-horizontal",
+      "name": "On Horizontal",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--on-vertical",
+      "name": "On Vertical",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--disabled-off-horizontal",
+      "name": "Disabled Off Horizontal",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--disabled-off-vertical",
+      "name": "Disabled Off Vertical",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--disabled-on-horizontal",
+      "name": "Disabled On Horizontal",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--disabled-on-vertical",
+      "name": "Disabled On Vertical",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--small-off",
+      "name": "Small Off",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--small-off-vertical",
+      "name": "Small Off Vertical",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--small-on",
+      "name": "Small On",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--small-on-vertical",
+      "name": "Small On Vertical",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--large-off",
+      "name": "Large Off",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--large-off-vertical",
+      "name": "Large Off Vertical",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--large-on",
+      "name": "Large On",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--large-on-vertical",
+      "name": "Large On Vertical",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--no-label-off",
+      "name": "No Label Off",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--no-label-on",
+      "name": "No Label On",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--long-label-horizontal",
+      "name": "Long Label Horizontal",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--long-label-vertical",
+      "name": "Long Label Vertical",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--medium-on-horizontal",
+      "name": "Medium On Horizontal",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--medium-on-vertical",
+      "name": "Medium On Vertical",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--short-label",
+      "name": "Short Label",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--short-label-vertical",
+      "name": "Short Label Vertical",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--no-label-on-vertical",
+      "name": "No Label On Vertical",
+      "title": "Switch",
+      "importPath": "./components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--unchecked-horizontal",
+      "name": "Unchecked Horizontal",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--unchecked-vertical",
+      "name": "Unchecked Vertical",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--checked-horizontal",
+      "name": "Checked Horizontal",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--checked-vertical",
+      "name": "Checked Vertical",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--disabled-unchecked-horizontal",
+      "name": "Disabled Unchecked Horizontal",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--disabled-unchecked-vertical",
+      "name": "Disabled Unchecked Vertical",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--disabled-checked-horizontal",
+      "name": "Disabled Checked Horizontal",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--disabled-checked-vertical",
+      "name": "Disabled Checked Vertical",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--small-unchecked",
+      "name": "Small Unchecked",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--small-unchecked-vertical",
+      "name": "Small Unchecked Vertical",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--small-checked",
+      "name": "Small Checked",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--small-checked-vertical",
+      "name": "Small Checked Vertical",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--large-unchecked",
+      "name": "Large Unchecked",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--large-unchecked-vertical",
+      "name": "Large Unchecked Vertical",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--large-checked",
+      "name": "Large Checked",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--large-checked-vertical",
+      "name": "Large Checked Vertical",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--no-label-unchecked",
+      "name": "No Label Unchecked",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--no-label-checked",
+      "name": "No Label Checked",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--long-label-horizontal",
+      "name": "Long Label Horizontal",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--long-label-vertical",
+      "name": "Long Label Vertical",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--medium-checked-horizontal",
+      "name": "Medium Checked Horizontal",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--medium-checked-vertical",
+      "name": "Medium Checked Vertical",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--short-label",
+      "name": "Short Label",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--short-label-vertical",
+      "name": "Short Label Vertical",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--no-label-checked-vertical",
+      "name": "No Label Checked Vertical",
+      "title": "Checkbox",
+      "importPath": "./components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--primary",
+      "name": "Primary",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--secondary",
+      "name": "Secondary",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--large",
+      "name": "Large",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--small",
+      "name": "Small",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--primary-small",
+      "name": "Primary Small",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--primary-medium",
+      "name": "Primary Medium",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--primary-large",
+      "name": "Primary Large",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--secondary-small",
+      "name": "Secondary Small",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--secondary-medium",
+      "name": "Secondary Medium",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--secondary-large",
+      "name": "Secondary Large",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--custom-background-red",
+      "name": "Custom Background Red",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--custom-background-green",
+      "name": "Custom Background Green",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--custom-background-purple",
+      "name": "Custom Background Purple",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--custom-background-orange",
+      "name": "Custom Background Orange",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--long-label",
+      "name": "Long Label",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--very-long-label",
+      "name": "Very Long Label",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--short-label",
+      "name": "Short Label",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--single-character",
+      "name": "Single Character",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--with-emoji",
+      "name": "With Emoji",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--with-multiple-emoji",
+      "name": "With Multiple Emoji",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--numeric-label",
+      "name": "Numeric Label",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--mixed-case-label",
+      "name": "Mixed Case Label",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--all-caps-label",
+      "name": "All Caps Label",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--lowercase-label",
+      "name": "Lowercase Label",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--small-custom-background",
+      "name": "Small Custom Background",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--large-custom-background",
+      "name": "Large Custom Background",
+      "title": "Button",
+      "importPath": "./components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--default-circle",
+      "name": "Default Circle",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--default-circle-vertical",
+      "name": "Default Circle Vertical",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--small-circle",
+      "name": "Small Circle",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--small-circle-vertical",
+      "name": "Small Circle Vertical",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--medium-circle",
+      "name": "Medium Circle",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--medium-circle-vertical",
+      "name": "Medium Circle Vertical",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--large-circle",
+      "name": "Large Circle",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--large-circle-vertical",
+      "name": "Large Circle Vertical",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--x-large-circle",
+      "name": "X Large Circle",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--x-large-circle-vertical",
+      "name": "X Large Circle Vertical",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--square-small",
+      "name": "Square Small",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--square-small-vertical",
+      "name": "Square Small Vertical",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--square-medium",
+      "name": "Square Medium",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--square-medium-vertical",
+      "name": "Square Medium Vertical",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--rounded-small",
+      "name": "Rounded Small",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--rounded-small-vertical",
+      "name": "Rounded Small Vertical",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--rounded-medium",
+      "name": "Rounded Medium",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--rounded-medium-vertical",
+      "name": "Rounded Medium Vertical",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--custom-color",
+      "name": "Custom Color",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--custom-color-vertical",
+      "name": "Custom Color Vertical",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--green-background",
+      "name": "Green Background",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--purple-background",
+      "name": "Purple Background",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--single-letter",
+      "name": "Single Letter",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--three-letters",
+      "name": "Three Letters",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--orange-background",
+      "name": "Orange Background",
+      "title": "Avatar",
+      "importPath": "./components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    }
+  ]
+}
